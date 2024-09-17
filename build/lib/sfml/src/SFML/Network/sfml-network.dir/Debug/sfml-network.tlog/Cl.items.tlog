@@ -1,0 +1,10 @@
+C:\year1_game\lib\sfml\src\SFML\Network\Ftp.cpp;C:\year1_game\build\lib\sfml\src\SFML\Network\sfml-network.dir\Debug\Ftp.obj
+C:\year1_game\lib\sfml\src\SFML\Network\Http.cpp;C:\year1_game\build\lib\sfml\src\SFML\Network\sfml-network.dir\Debug\Http.obj
+C:\year1_game\lib\sfml\src\SFML\Network\IpAddress.cpp;C:\year1_game\build\lib\sfml\src\SFML\Network\sfml-network.dir\Debug\IpAddress.obj
+C:\year1_game\lib\sfml\src\SFML\Network\Packet.cpp;C:\year1_game\build\lib\sfml\src\SFML\Network\sfml-network.dir\Debug\Packet.obj
+C:\year1_game\lib\sfml\src\SFML\Network\Socket.cpp;C:\year1_game\build\lib\sfml\src\SFML\Network\sfml-network.dir\Debug\Socket.obj
+C:\year1_game\lib\sfml\src\SFML\Network\SocketSelector.cpp;C:\year1_game\build\lib\sfml\src\SFML\Network\sfml-network.dir\Debug\SocketSelector.obj
+C:\year1_game\lib\sfml\src\SFML\Network\TcpListener.cpp;C:\year1_game\build\lib\sfml\src\SFML\Network\sfml-network.dir\Debug\TcpListener.obj
+C:\year1_game\lib\sfml\src\SFML\Network\TcpSocket.cpp;C:\year1_game\build\lib\sfml\src\SFML\Network\sfml-network.dir\Debug\TcpSocket.obj
+C:\year1_game\lib\sfml\src\SFML\Network\UdpSocket.cpp;C:\year1_game\build\lib\sfml\src\SFML\Network\sfml-network.dir\Debug\UdpSocket.obj
+C:\year1_game\lib\sfml\src\SFML\Network\Win32\SocketImpl.cpp;C:\year1_game\build\lib\sfml\src\SFML\Network\sfml-network.dir\Debug\SocketImpl.obj

@@ -1,0 +1,10 @@
+^C:\YEAR1_GAME\BUILD\CMAKEFILES\AE793A9D9B6035635D58A347CF2FF534\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/year1_game -BC:/year1_game/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/year1_game/build/Games_Engineering.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
